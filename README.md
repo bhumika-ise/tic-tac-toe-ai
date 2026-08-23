@@ -1,19 +1,30 @@
-# Tic Tac Toe AI 
+# Tic Tac Toe AI 🎮
 
-This is a Tic Tac Toe game built using Python where a user plays against an AI.
+An AI-powered Tic Tac Toe game where the computer never loses using the Minimax algorithm.
 
-## Features
-. User vs AI gameplay
-. Smart AI using Minimax Algorithm
-. Console-based interface
+## 💡 Features
+- User vs AI gameplay
+- Smart AI using Minimax Algorithm
+- Console-based interface
 
-## How to Run
-1. Install Python
-2. Run the file:
-   python tic_tac_toe.py
+## ▶️ How to Run
+1. Install Python 
+2. Open terminal
+3. Run the command:
 
-## Algorithm Used
+python tic_tac_toe.py
+
+## 📌 Sample Output
+
+X|O|X
+-----
+O|X| 
+-----
+ | |O
+
+Result: Draw
+## 🧠 Algorithm Used
 Minimax Algorithm (AI always makes optimal move)
 
-## Author
+## 👩‍💻 Author
 Bhumika
