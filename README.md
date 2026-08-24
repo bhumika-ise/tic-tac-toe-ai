@@ -22,19 +22,6 @@ An AI-powered Tic Tac Toe game where the computer never loses using the Minimax 
 ### Final Result
 ![Result](output1.png)
 
-## 📌 Sample Output
-
-```
-X | O | X
----------
-O | X |  
----------
-  |   | O
-
-Result: Draw
-```
-
-
 ## 🧠 Algorithm Used
 Minimax Algorithm (AI always makes optimal move)
 
