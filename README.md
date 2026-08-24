@@ -16,13 +16,17 @@ python tic_tac_toe.py
 
 ## 📌 Sample Output
 
-X|O|X
------
-O|X| 
------
- | |O
+```
+X | O | X
+---------
+O | X |  
+---------
+  |   | O
 
 Result: Draw
+```
+
+
 ## 🧠 Algorithm Used
 Minimax Algorithm (AI always makes optimal move)
 
