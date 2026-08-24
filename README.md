@@ -14,6 +14,14 @@ An AI-powered Tic Tac Toe game where the computer never loses using the Minimax 
 
 python tic_tac_toe.py
 
+## 📷 Preview
+
+### Game in Progress
+![Game](game.png)
+
+### Final Result
+![Result](result.png)
+
 ## 📌 Sample Output
 
 ```
