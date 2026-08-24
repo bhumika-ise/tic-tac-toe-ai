@@ -12,7 +12,7 @@ An AI-powered Tic Tac Toe game where the computer never loses using the Minimax 
 2. Open terminal
 3. Run the command:
 
-python tic_tac_toe.py
+   python tic_tac_toe.py
 
 ## 📷 Preview
 
