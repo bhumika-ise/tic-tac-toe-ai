@@ -20,7 +20,7 @@ python tic_tac_toe.py
 ![Game](output.png)
 
 ### Final Result
-![Result](output.png1.png)
+![Result](output1.png)
 
 ## 📌 Sample Output
 
