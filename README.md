@@ -17,10 +17,10 @@ python tic_tac_toe.py
 ## 📷 Preview
 
 ### Game in Progress
-![Game](game.png)
+![Game](output.png)
 
 ### Final Result
-![Result](result.png)
+![Result](output.png1.png)
 
 ## 📌 Sample Output
 
